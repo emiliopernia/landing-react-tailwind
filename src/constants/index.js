@@ -1,55 +1,57 @@
 import { facebook, instagram, shieldTick, support, truckFast, twitter } from "../assets/icons";
-import { bigShoe1, bigShoe2, bigShoe3, customer1, customer2, shoe4, shoe5, shoe6, shoe7, thumbnailShoe1, thumbnailShoe2, thumbnailShoe3 } from "../assets/images";
+import { bike1, bike2, bike3, customer1, customer2, bike4, bike5, bike6, bike7 } from "../assets/images";
 
 export const navLinks = [
     { href: "#home", label: "Home" },
     { href: "#about-us", label: "About Us" },
-    { href: "#products", label: "Products" },
+    { href: "#products", label: "Our Bikes" },
     { href: "#contact-us", label: "Contact Us" },
 ];
 
-export const shoes = [
+export const bikes = [
+
     {
-        thumbnail: thumbnailShoe1,
-        bigShoe: bigShoe1,
+        thumbnail: bike2,
+        bigBike: bike2,
     },
     {
-        thumbnail: thumbnailShoe2,
-        bigShoe: bigShoe2,
+        thumbnail: bike1,
+        bigBike: bike1,
     },
     {
-        thumbnail: thumbnailShoe3,
-        bigShoe: bigShoe3,
+        thumbnail: bike3,
+        bigBike: bike3,
     },
 ];
 
 export const statistics = [
-    { value: '1k+', label: 'Brands' },
-    { value: '500+', label: 'Shops' },
-    { value: '250k+', label: 'Customers' },
+    { value: '1k+', label: 'Users' },
+    { value: '500+', label: 'Reviews' },
+    { value: '250km+', label: 'On Mountain' },
 ];
 
 export const products = [
     {
-        imgURL: shoe4,
-        name: "Nike Air Jordan-01",
-        price: "$200.20",
+        imgURL: bike4,
+        name: "Bike Red JordanBulls",
+        price: "$100.20",
     },
     {
-        imgURL: shoe5,
-        name: "Nike Air Jordan-10",
-        price: "$210.20",
+        imgURL: bike5,
+        name: "Bike Yellow MillerPacers",
+        price: "$150.20",
     },
     {
-        imgURL: shoe6,
-        name: "Nike Air Jordan-100",
-        price: "$220.20",
-    },
-    {
-        imgURL: shoe7,
-        name: "Nike Air Jordan-001",
+        imgURL: bike7,
+        name: "Bike Gray DurantNets",
         price: "$230.20",
     },
+    {
+        imgURL: bike6,
+        name: "Bike Black DuncanSpurs",
+        price: "$220.20",
+    },
+
 ];
 
 export const services = [
@@ -90,12 +92,12 @@ export const footerLinks = [
     {
         title: "Products",
         links: [
-            { name: "Air Force 1", link: "/" },
-            { name: "Air Max 1", link: "/" },
-            { name: "Air Jordan 1", link: "/" },
-            { name: "Air Force 2", link: "/" },
-            { name: "Nike Waffle Racer", link: "/" },
-            { name: "Nike Cortez", link: "/" },
+            { name: "Red Bulls", link: "/" },
+            { name: "Gray Nets", link: "/" },
+            { name: "Yellow Pacers", link: "/" },
+            { name: "Black Spurs", link: "/" },
+            { name: "Blue Warriors", link: "/" },
+            { name: "Green Celtics", link: "/" },
         ],
     },
     {
@@ -111,7 +113,7 @@ export const footerLinks = [
     {
         title: "Get in touch",
         links: [
-            { name: "customer@nike.com", link: "mailto:customer@nike.com" },
+            { name: "customer@bicycle.com", link: "mailto:customer@bicycle.com" },
             { name: "+92554862354", link: "tel:+92554862354" },
         ],
     },
