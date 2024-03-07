@@ -17,11 +17,11 @@ You may also see any lint errors in the console.
 
 # Screenshots
 
-![Screenshot 1](/src/assets/images/desk-hero.png)
-![Screenshot 2](/src/assets/images/desk-special.png)
-![Screenshot 3](/src/assets/images/mobile-hero.png)
-![Screenshot 4](/src/assets/images/mobile-cards.png)
-![Screenshot 5](/src/assets/images/mobile-footer.png)
-![Screenshot 6](/src/assets/images/mobile-newsletter.png)
-![Screenshot 7](/src/assets/images/mobile-products.png)
-![Screenshot 8](/src/assets/images/mobile-reviews.png)
+<img src="src/assets/images/desk-hero.png" alt="Screenshot 1" style="width: 400px;">
+<img src="src/assets/images/desk-special.png" alt="Screenshot 2" style="width: 400px;">
+<img src="src/assets/images/mobile-hero.png" alt="Screenshot 3" style="width: 200px;">
+<img src="src/assets/images/mobile-cards.png" alt="Screenshot 4" style="width: 200px;">
+<img src="src/assets/images/mobile-footer.png" alt="Screenshot 5" style="width: 200px;">
+<img src="src/assets/images/mobile-newsletter.png" alt="Screenshot 6" style="width: 200px;">
+<img src="src/assets/images/mobile-products.png" alt="Screenshot 7" style="width: 200px;">
+<img src="src/assets/images/mobile-reviews.png" alt="Screenshot 8" style="width: 200px;">
