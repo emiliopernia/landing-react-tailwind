@@ -17,11 +17,11 @@ You may also see any lint errors in the console.
 
 # Screenshots
 
-![Screenshot 1](src/images/desk-hero.png)
-![Screenshot 2](src/images/desk-special.png)
-![Screenshot 3](src/images/mobile-hero.png)
-![Screenshot 4](src/images/mobile-cards.png)
-![Screenshot 5](src/images/mobile-footer.png)
-![Screenshot 6](src/images/mobile-newsletter.png)
-![Screenshot 7](src/images/mobile-products.png)
-![Screenshot 8](src/images/mobile-reviews.png)
+![Screenshot 1](/src/assets/images/desk-hero.png)
+![Screenshot 2](/src/assets/images/desk-special.png)
+![Screenshot 3](/src/assets/images/mobile-hero.png)
+![Screenshot 4](/src/assets/images/mobile-cards.png)
+![Screenshot 5](/src/assets/images/mobile-footer.png)
+![Screenshot 6](/src/assets/images/mobile-newsletter.png)
+![Screenshot 7](/src/assets/images/mobile-products.png)
+![Screenshot 8](/src/assets/images/mobile-reviews.png)
