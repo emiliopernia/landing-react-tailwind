@@ -24,4 +24,4 @@ You may also see any lint errors in the console.
 <img src="src/assets/images/mobile-footer.png" alt="Screenshot 5" style="width: 200px;">
 <img src="src/assets/images/mobile-newsletter.png" alt="Screenshot 6" style="width: 200px;">
 <img src="src/assets/images/mobile-products.png" alt="Screenshot 7" style="width: 200px;">
-<img src="src/assets/images/mobile-reviews.png" alt="Screenshot 8" style="width: 200px;">
+<img src="src/assets/images/mobile-review.png" alt="Screenshot 8" style="width: 200px;">
